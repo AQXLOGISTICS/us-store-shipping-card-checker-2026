@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://aqxlogistics.github.io/us-store-shipping-card-checker-2026/sitemap.xml
